@@ -1,16 +1,12 @@
 ---
 layout: page
-title: Pages 
+title: CBF 
 header: Pages
 group: navigation
 ---
 {% include JB/setup %}
 
-<!DOCTYPE><html>
-<head>
-    <title>CBF</title>
-</head>
-<body><h1>The Complete History of "The Chronic Bitch Face"</h1>
+<h1>The Complete History of "The Chronic Bitch Face"</h1>
     <h4> As told by <i>Alina Itkin</i></h4>
     
  <h3> The Birth </h3>  
@@ -18,4 +14,4 @@ group: navigation
   <center><a href="https://www.facebook.com/alina.itkin"><img src="https://pbs.twimg.com/media/BP1PRwhCcAAFuoq.jpg:large" width="90"></a></center>
     <p>As the little girl emerged into the world, the hospital rang with the joy of a newborn. There were tears and smiles and hugs all around. She was healthy - albeit a little overweight at 8lbs.</p>
     <p>stuff</p>
-</body>
+
